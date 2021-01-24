@@ -1,5 +1,5 @@
 # challenge-classification
-![n-y-c](https://www.thedataschool.com.au/wp-content/uploads/2018/10/text-classification-1080x545.png)
+![classification](https://www.thedataschool.com.au/wp-content/uploads/2018/10/text-classification-1080x545.png)
 
 ## Why Classification :
 Classification of organism is defined as the system of arrangements of organisms into different groups and sub-groups on the Basis of there similarities , differences & the relationship.
